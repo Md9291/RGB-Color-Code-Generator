@@ -1,3 +1,4 @@
 # RGB-Color-Code-Generator
-This will Generate rgb Color Code . 
-Click Here To Visit:
+This site was built using [Click Here]().
+
+
